@@ -1,0 +1,12 @@
+# Ignore all jars
+*.jar
+
+# Ignore folders
+*/bin/*
+*.metadata/
+*/.settings/
+RemoteSystemsTempFiles/
+
+# Ignore Auto Generated Files
+*/.classpath
+*/.project
