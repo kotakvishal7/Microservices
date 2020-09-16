@@ -4,8 +4,8 @@ public class MyApp {
 
 	public static void main(String[] args) {
 		
-		BaseballCoach baseballCoach = new BaseballCoach();
+		Coach coach = new BaseballCoach();
 		
-		System.out.println(baseballCoach.getDailyWorkout());		
+		System.out.println(coach.getDailyWorkout());		
 	}
 }
