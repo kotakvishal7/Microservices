@@ -19,7 +19,7 @@
     
     
    	<bean id="myCoach"
-   		  class="com.vishal.springdemo.TrackCoach">
+   		  class="com.vishal.springdemo.FootballCoach">
     </bean> 
     
  </beans>
